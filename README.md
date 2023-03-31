@@ -2,7 +2,7 @@
 
 1º Instale as dependencias que estão no requirements.txt com o seguinte comando:
 
-pip install -r requirements. txt
+pip install -r requirements.txt
 
 2º Entre na pasta do projeto com o código:
 
